@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyPrint", "PrettyPrint\PrettyPrint.csproj", "{276EE7AC-0A3E-4456-83B7-36E35E7DC313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyPrintTests", "PrettyPrintTests\PrettyPrintTests.csproj", "{EFFFC048-5268-4873-A063-EA5A7BDE708E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276EE7AC-0A3E-4456-83B7-36E35E7DC313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276EE7AC-0A3E-4456-83B7-36E35E7DC313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276EE7AC-0A3E-4456-83B7-36E35E7DC313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276EE7AC-0A3E-4456-83B7-36E35E7DC313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFFC048-5268-4873-A063-EA5A7BDE708E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFFC048-5268-4873-A063-EA5A7BDE708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFFC048-5268-4873-A063-EA5A7BDE708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFFC048-5268-4873-A063-EA5A7BDE708E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
